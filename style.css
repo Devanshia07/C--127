@@ -1,0 +1,8 @@
+body {
+    background-color: burlywood;
+}
+
+#timer {
+    float: right;
+    margin-right: 5px;
+}
